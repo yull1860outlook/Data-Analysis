@@ -6,3 +6,7 @@ This repository is a place to share my code and notebooks for numerous data scie
 Many of these projects are written up on my [Towards Data Science Medium page](https://medium.com/@williamkoehrsen). 
 
 Reach me on Twitter [@koehrsen_will](https://twitter.com/@koehrsen_will)
+
+
+-sudo apt install python3-tk
+-pip install fbprophet > need 4GB mem
